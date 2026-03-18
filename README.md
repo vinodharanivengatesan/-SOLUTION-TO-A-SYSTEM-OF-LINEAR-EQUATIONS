@@ -19,10 +19,9 @@ A = [[5, -3, -10],
      [2, 2, -3],
      [-3, -1, 5]]
 
-# Constant terms
+Constant terms
 B = [-9, 4, -1]
-
-# Augmented matrix
+ Augmented matrix
 for i in range(3):
     A[i].append(B[i])
 
